@@ -1,0 +1,7 @@
+{
+  "name": "elasticsearch",
+  "version": "0.1.0",
+  "description": "Official Docker Elasticsearch engine.",
+  "author": "Kitematic",
+  "logo": "logo.png"
+}
